@@ -595,7 +595,7 @@
             <xd:p>Vocabulary file containing language dependant strings such as labels</xd:p>
         </xd:desc>
     </xd:doc>
-    <xsl:param name="vocFile" select="'cda_l10n.xml'"/>
+    <xsl:param name="vocFile" select="'https://raw.githubusercontent.com/uwin5949/cda-core-xsl/master/cda_l10n.xml'"/>
 
     <xd:doc>
         <xd:desc>
